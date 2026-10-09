@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "downloadUrl": "https://github.com/Genao0909/PsicoGest-Actualizaciones/releases/download/v1.1.0/PsicoGest-1.1.0-actualizacion.zip",
-  "sha256": "5ECB2D1EE0D475A3BBDDFA04AD32DBCAC19681D4738B52A95541B639F112685E",
-  "notes": "Actualizaciones automáticas, sincronización en línea y navegación sin saltos."
+  "version": "1.1.1",
+  "downloadUrl": "https://github.com/Genao0909/PsicoGest-Actualizaciones/releases/download/v1.1.1/PsicoGest-1.1.1-actualizacion.zip",
+  "sha256": "0B54BEE4F233389C65C22C1639DE9892BB7EC8998E91A9145F63953FCFB502BD",
+  "notes": "Corrige el aviso repetido de actualización y compara la versión instalada correctamente."
 }
